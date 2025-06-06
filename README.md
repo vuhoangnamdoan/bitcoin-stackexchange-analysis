@@ -2,6 +2,24 @@
 
 A comprehensive data analysis project exploring the Bitcoin StackExchange dataset to understand user behavior, sentiment patterns, and discussion topics within the Bitcoin community.
 
+## Contributing
+
+This is an academic project for SIT220 Data Wrangling. For questions or suggestions:
+- Student Name: **Vu Hoang Nam Doan**
+- Student Number: s224021565
+- Outlook: s224021565@deakin.edu.au
+- Email: vuhoangnamdoan1605@gmail.com
+- LinkedIn: [Vu Hoang Nam Doan](https://www.linkedin.com/in/vuhoangnamdoan/)
+- Course: S379 - Bachelor of Data Science
+
+However, suggestions for improvements are welcome:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/improvement`)
+3. Commit changes (`git commit -am 'Add improvement'`)
+4. Push to branch (`git push origin feature/improvement`)
+5. Create a Pull Request
+
 ## Project Overview
 
 This project presents an in-depth analysis of the Bitcoin StackExchange dataset, a public Q&A platform for Bitcoin enthusiasts. The analysis covers approximately **32,000 questions** and **44,000 answers** to uncover insights into:
@@ -237,15 +255,6 @@ This analysis uses publicly available data from Bitcoin StackExchange where user
 - Maintaining transparency in methodology and findings
 - Recognizing the sensitive nature of cryptocurrency discussions
 
-## Author
-
-**Vu Hoang Nam Doan**
-- Student Number: s224021565
-- Outlook: s224021565@deakin.edu.au
-- Email: vuhoangnamdoan1605@gmail.com
-- LinkedIn: [Vu Hoang Nam Doan](https://www.linkedin.com/in/vuhoangnamdoan/)
-- Course: S379 - Bachelor of Data Science
-
 ## Formats Available
 
 This analysis is available in multiple formats:
@@ -254,10 +263,6 @@ This analysis is available in multiple formats:
 - **Quarto Document**: `notebook.qmd` - Reproducible research format
 - **HTML Report**: `notebook.html` - Web-viewable static report
 - **PDF Report**: `notebook.pdf` - Printable document format
-
-## Contributing
-
-This is an academic project, but suggestions and feedback are welcome. Please feel free to open issues or submit pull requests for improvements.
 
 ## License
 
